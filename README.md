@@ -45,4 +45,4 @@ The tests are executed using `unittest.main()`, which runs all defined test case
 To run the tests, save both project.py and test_project.py in the same directory. Execute the following command in your terminal:
 
 ```bash
-python test_project.py
+Test-Quantum-Computer-Simultor.py
