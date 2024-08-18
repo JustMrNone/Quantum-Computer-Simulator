@@ -16,6 +16,7 @@ The project.py file defines three main classes: Qubit, QuantumGate, and QuantumC
 - **Static Methods for Gates**: Provides identity (I), Pauli-X (X), and Hadamard (H) gates.
 - **Get Gate Method**: Returns the appropriate gate based on the input name.
 
+
 ### QuantumCircuit Class:
 
 - **Initialization**: Initializes the circuit with a qubit in a specified state.
